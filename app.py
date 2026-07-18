@@ -188,11 +188,11 @@ if uploaded_file is not None:
 
 
 
-from pyngrok import ngrok
-ngrok.kill()
+# from pyngrok import ngrok
+# ngrok.kill()
 
-# !streamlit run app.py &>/content/logs.txt&
-ngrok.set_auth_token("3FXsdEYIvJL5qg82Ntf7hKIfULf_4JGtPsn3P94JUTPwrvr4B")
+# # !streamlit run app.py &>/content/logs.txt&
+# ngrok.set_auth_token("3FXsdEYIvJL5qg82Ntf7hKIfULf_4JGtPsn3P94JUTPwrvr4B")
 
-public_url = ngrok.connect(8501)
-print("Your URL:",public_url)
+# public_url = ngrok.connect(8501)
+# print("Your URL:",public_url)
