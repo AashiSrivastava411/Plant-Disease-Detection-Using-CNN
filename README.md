@@ -3,6 +3,10 @@
 A deep learning-based image classification project that detects plant diseases from leaf images using **Transfer Learning** with **MobileNetV2**. The model is trained on the **PlantVillage** dataset and classifies images into **13 different disease categories**.
 
 ---
+## 🔗 Live Link
+👉 [Try the app here](https://plant-disease-detection-using-cnn-92dwkqvghzn5qvmeb8iu93.streamlit.app)
+
+---
 
 ## 📖 Overview
 
